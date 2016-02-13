@@ -1,0 +1,17 @@
+{
+  "name": "iot-timer",
+  "version": "1.0.0",
+  "description": "simple iot-timer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot-timer"
+  ],
+  "author": "Fred Naude",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

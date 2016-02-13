@@ -1,0 +1,1304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"getA",
+				"getAttribute(attributeName)	Element"
+			],
+			[
+				"query",
+				"querySelectorAll(selectors)	Element"
+			],
+			[
+				"insert",
+				"insertAdjacentHTML(position, text)	Element"
+			],
+			[
+				"getEle",
+				"getElementById(id)	Element"
+			],
+			[
+				"setT",
+				"setTimeout(func, delay)	Window"
+			],
+			[
+				"cono",
+				"console.log()"
+			],
+			[
+				"get",
+				"getTime()	Date"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"inner",
+				"innerWidth	Window"
+			],
+			[
+				"remove",
+				"removeEventListener(${0:type}, listener)	EventTarget"
+			],
+			[
+				"dis",
+				"display	Style CSS"
+			],
+			[
+				"back",
+				"backgroundPosition	Style CSS"
+			],
+			[
+				"bac",
+				"backgroundSize	Style CSS"
+			],
+			[
+				"sty",
+				"style	Style CSS"
+			],
+			[
+				"getElement",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"getElemen",
+				"getElementsByTagName(${0:name})	Element"
+			],
+			[
+				"app",
+				"appendChild(${0:aChild})	Node"
+			],
+			[
+				"gete",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"animat",
+				"animationName	Style CSS"
+			],
+			[
+				"Dom",
+				"DOMContentLoaded	Event"
+			],
+			[
+				"setAttribute",
+				"setAttribute(${0:name}, value)	Element"
+			],
+			[
+				"a",
+				"attributes	Element"
+			],
+			[
+				"rotat",
+				"transform = 'rotateY($0angle)'	Style CSS"
+			],
+			[
+				"tra",
+				"transform	Style CSS"
+			],
+			[
+				"backgrou",
+				"backgroundImage	Style CSS"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"getElementBy",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"setAttr",
+				"setAttributeNS(${0:namespace}, name, value)	Element"
+			],
+			[
+				"mou",
+				"mouseenter	Event"
+			],
+			[
+				"getEl",
+				"getElementsByTagName(${0:name})	Element"
+			],
+			[
+				"getElemne",
+				"getElementsByTagName(${0:name})	Element"
+			],
+			[
+				"createEle",
+				"createElementNS(${0:namespaceURI}, qualifiedName)	Document"
+			],
+			[
+				"get_templa",
+				"get_template_directory_uri"
+			],
+			[
+				"WP",
+				"WP_Query"
+			],
+			[
+				"A",
+				"ASC"
+			],
+			[
+				"pa",
+				"parentElement	Node"
+			],
+			[
+				"get_the",
+				"get_the_category"
+			],
+			[
+				"ch",
+				"childNodes	Node"
+			],
+			[
+				"crea",
+				"createSidebar"
+			],
+			[
+				"match",
+				"matchMedia(${0:mediaQueryString})	Window"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"poll",
+				"pollValue"
+			],
+			[
+				"fun",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"paddin-",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"img",
+				"imgResult"
+			],
+			[
+				"post",
+				"postID"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mouse",
+				"mouseleave	Event"
+			],
+			[
+				"pare",
+				"parentNode	Node"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"class",
+				"className	Element"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"maroi",
+				"margin-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"sidr",
+				"sidr_footer"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"getElem",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"else",
+				"else if()"
+			],
+			[
+				"close",
+				"close()	Document"
+			],
+			[
+				"init",
+				"initPoint"
+			],
+			[
+				"part",
+				"particleArray"
+			],
+			[
+				"int",
+				"initProps"
+			],
+			[
+				"Math",
+				"Math.random()	Math"
+			],
+			[
+				"erase",
+				"eraseSpeed"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"html",
+				"htmlboiler	htmlboiler"
+			],
+			[
+				"sec",
+				"secAngle"
+			],
+			[
+				"time",
+				"timeAngle"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"ce",
+				"centerX"
+			],
+			[
+				"center",
+				"centerY"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ini",
+				"insideArray"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"tmp",
+				"tmpArray"
+			],
+			[
+				"up",
+				"updateInputs"
+			],
+			[
+				"resul",
+				"resultKey"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"per",
+				"basicPer"
+			],
+			[
+				"can",
+				"canvasEl"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"handle",
+				"handleAuthResult"
+			],
+			[
+				"aut",
+				"authorize"
+			],
+			[
+				"auth",
+				"authorizeBut"
+			],
+			[
+				"hand",
+				"handleUnAuthorized"
+			],
+			[
+				"cli",
+				"clientID"
+			],
+			[
+				"set",
+				"setTimeout  (function)"
+			],
+			[
+				"File",
+				"FileReader"
+			],
+			[
+				"str",
+				"strokeStyle"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"zoom",
+				"zoomBox"
+			],
+			[
+				"resiz",
+				"resizeHandler"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"m",
+				"olw-m	outline-width: medium;"
+			],
+			[
+				"bdt",
+				"bdtri-c	border-top-right-image: continue;"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"Mo",
+				"Monday"
+			],
+			[
+				"dat",
+				"dateToFormat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1880,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/script.js",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"choose",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 456.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Library/WebServer/Documents/www/Projects/iot-timer",
+		"/Library/WebServer/Documents/www/Projects/iot-timer/public",
+		"/Library/WebServer/Documents/www/Projects/iot-timer/public/css",
+		"/Library/WebServer/Documents/www/Projects/iot-timer/public/js"
+	],
+	"file_history":
+	[
+		"/Library/WebServer/Documents/www/frontend/JS_Fundamentals2Functional/Exercises/1_objTest/index.html",
+		"/Library/WebServer/Documents/www/frontend/Intro_to_web_dev/node/bleat/public/style.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/js/utils.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/templates/register.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/.gitignore",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/header.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/bdayWidget/bdayWidget.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/very-basic-analytics/very-basic-analytics.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/templates/edit_profile.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/cropbox-min.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/dialogue-login.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/css/janine.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/registration/_registration.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/cropbox.js",
+		"/Users/frederick.naude/Downloads/Development/Javascript/CropBox/IntranetVersion/cropbox/README.md",
+		"/Users/frederick.naude/Downloads/Development/Javascript/CropBox/IntranetVersion/cropbox/javascript/cropbox.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/inc/template-tags.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/media-queries/_nmpmq.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/functions.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/template-parts/content-single-notifications.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/index.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/template-parts/content-single.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/template-parts/content-notifications.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/bdayCard/bdayCard.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/add-post/_addpost.scss",
+		"/Library/WebServer/Documents/www/frontend/Intro_to_web_dev/commandLine/pull-requests/fn.txt",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/single-notifications.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/bdays/_bdays.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/_custom.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/noticeboard/noticeboard.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/media-queries/nmpmq.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/staff/staff.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/modules/feedsection.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/forms/talktous.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/page-awards.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/template-parts/content-awards.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/modules/nmpbuttons.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/registration/registration.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/bdays/bdays.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/template-parts/content-page.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/single.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/forms/handleForms.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/intranet-custom.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/templates/staffers.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/mobilemenu/mobilemenu.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/colours/nmpcolours.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/talk-to-us/talktous.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/profile/profile.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/add-post/addpost.scss",
+		"/Users/frederick.naude/Desktop/imgdata",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/templates/birthday_widget.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/gruntfile.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/style.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/sidebar.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/config/user_profile.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/page.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/css/_custom.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/registration/login.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/login-form.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/theme-my-login/includes/class-theme-my-login-template.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/theme-my-login/templates/login-form.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/gravity-forms-advanced-file-uploader/inc/js/init_plupload_queue.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/gravity-forms-advanced-file-uploader/inc/js/plupload/jquery.plupload.queue/jquery.plupload.queue.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/gravity-forms-advanced-file-uploader/inc/js/plupload/jquery.ui.plupload/jquery.ui.plupload.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/search/search.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/staff/staffDir.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/template-parts/content-search.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/search.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/postSubmit/postSubmit.js",
+		"/Library/WebServer/Documents/www/JS/JS_Pixi/1.GettingStarted/script.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/tweets/tweets.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/modules/nmpdropdown.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/style.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/ajaxify-wordpress-site/js/ajaxify.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/modules/nmppageelement.scss",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/jquery.mCustomScrollbar.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/searchform.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/template-parts/content.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/ckeditor/config.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/page full.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/purple.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/templates/user_status.php",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/forms.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/yellow.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/red.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/styleswitcher.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/templates/register___.php",
+		"/Library/WebServer/Documents/www/Intranet/.config",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/scss/style.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/blue.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/cyan.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/green.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/orange.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/colours/pink.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/css/styling.css",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dpProEventCalendar/js/jquery.dpProEventCalendar.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/intranet.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-config.php",
+		"/Library/WebServer/Documents/www/intranet/.gitignore",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/themes/nmpintranet/js/load-calendar-cutsom.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dpProEventCalendar/includes/core.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dpProEventCalendar/js/jquery.dpProEventCalendar_init.js",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dpProEventCalendar/templates/default/template.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dpProEventCalendar/functions.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/footer.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/page-index__.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/template-index-page.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/functions.php",
+		"/Library/WebServer/Documents/www/Work/Vodacom/OurAfrica/wp-content/themes/ourafrica/js/script.js",
+		"/private/etc/apache2/httpd.conf",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/.htaccess",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/inc/template-tags.php",
+		"/private/var/folders/n2/6k6pl75x2350x5bkwb5bqyfcm8t8tt/T/fz3temp-1/wp-config.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/preloader.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/search.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/carl_styles.css",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content-single.php",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/JSLint/Default.sublime-keymap",
+		"/Users/frederick.naude/Library/Application Support/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/header.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/page-index.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content-page.php",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/custom.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ajax",
+			"selectYears",
+			"console",
+			"consol",
+			"msg-text",
+			"crop-controls",
+			"btnCrop",
+			"zoom",
+			"test",
+			"render",
+			"setAttr",
+			"cropbox",
+			"crop",
+			"btnZoomOut",
+			"imageBox",
+			"btnCrop",
+			"HTML_TO_APPEND",
+			"dataURItoBlob",
+			"nodeInserted",
+			"branc",
+			"HEAD",
+			"class=\"imageBox\"",
+			"imageBox",
+			"dialogue_photo",
+			"btnZoomIn",
+			"HTML_TO_APPEND",
+			".imagebox",
+			"add-post-circle",
+			"animated-text",
+			";\n",
+			"add-post-circle",
+			"add-post",
+			"add-po",
+			"input[type=\"button\"]",
+			"file-display",
+			"single-post",
+			"jQuery('#gform_ajax_frame_4')",
+			"jQuery(document).ready(function($){gformInitSpinner( 4, 'http://localhost/intranet/wp-content/plugins/gravityforms/images/spinner.gif' )",
+			"container",
+			"px",
+			"600",
+			" entry-content",
+			" h1.entry-title",
+			"gravityforms/images/spinner.gif",
+			"close_article",
+			"'HERE'",
+			"HERE",
+			"Talk to us",
+			"results_details",
+			"#profile",
+			"BdayWidget",
+			"mainBirthdayHolder",
+			"notification-preview",
+			"localhost/intranet",
+			"mess",
+			"txt",
+			"msg-text",
+			"_body",
+			"dropdown-content",
+			"ajax_object",
+			"staff_directory",
+			"staffers.php",
+			"5_1",
+			"[gravityform id=\"2\" name=\"Post\" ajax=\"true\"]",
+			"do_shortcode",
+			"gravity",
+			"staff-section",
+			"srch_query",
+			"filter_by_dep",
+			"aeaeae",
+			"f7f7f7",
+			"Talk To us",
+			"Talk To Us",
+			"populate_date",
+			"required",
+			"office",
+			"dialogue_photo",
+			"image",
+			"img",
+			"jquery",
+			"single-post-content",
+			"single-post-container",
+			"@include",
+			"include",
+			"ditty",
+			"twitty",
+			".mtphr-dnt-twitter-links a",
+			".mtphr-dnt-twitter-links a,",
+			".mtphr-dnt-twitter-links a, .mtphr-dnt-twitter-time",
+			"BdayWidget",
+			"type=\"checkbox",
+			"logge",
+			"featured-image-upload",
+			"wp_ulike",
+			"u like",
+			"mobile-header-log",
+			"wp_is_mobile",
+			"mobile",
+			"flip",
+			"secondary",
+			"id=\"flip\"",
+			"flip",
+			"wp-ulike",
+			"wp-like",
+			"like",
+			"article",
+			".entry-meta",
+			"date",
+			"close_article",
+			"single-post-content",
+			"scene_element",
+			"the_posts_navigation",
+			"navigation posts-navigation",
+			"new",
+			"mobile-header-main",
+			"$purple",
+			"expand",
+			"mobile-header",
+			"primary-login-page",
+			"primary-login",
+			"primary-login-page",
+			"login",
+			"Forgot login?",
+			"tml-action-links",
+			"button#expand",
+			"loginform1",
+			"tml-action-links",
+			"loginform"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SAIBA MAIS >>",
+			"EN SAVOIR PLUS >>",
+			"border=\"0\"",
+			"border=\"1\"",
+			"border=\"0\"",
+			"border=\"1\"",
+			"border=\"0\"",
+			"EsmareEmailer2_afr",
+			"EsmareEmailer_afr",
+			"border=\"0\"",
+			"border=\"1\"",
+			"src=\"",
+			"src=\"http://communications.newmediapub.co.za/users/assets/1087/images/77379/",
+			"border=\"0\"",
+			"src=\"http://communications.newmediapub.co.za/users/assets/1087/images/77366/",
+			"-",
+			"'",
+			"true",
+			"false"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1109,
+								1095
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_savvy.file_path": "/Library/WebServer/Documents/www/Projects/iot-timer/public/index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1685,
+								1685
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_indent": true,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_savvy.file_path": "/Library/WebServer/Documents/www/Projects/iot-timer/public/css/style.css",
+							"open_with_edit": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1027.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_savvy.file_path": "/Library/WebServer/Documents/www/Projects/iot-timer/public/js/script.js",
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 97.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 44.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "iot-timer.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/frederick.naude/Desktop/Learning Materials/Lynda/Javascript/JS Functions/7/script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
