@@ -10,6 +10,8 @@
 body{
 	background-color: #F7F7F7;
 	height: 100%;
+	font-family: 'Lato', sans-serif;
+	color: #fff;
 }
 
 a{
@@ -82,9 +84,36 @@ body,
 }
 
 .sidebar{
+	position: relative;
 	display: table-cell;
 	width: 200px;
 	background: #252930;
+	color: #60646A;
+}
+
+.sidebar-links{
+	position: absolute;
+	width: 100%;
+}
+
+.sidebar-links li{
+	padding-top: 20px;
+	text-align: center;
+	height: 120px;
+}
+
+.sidebar-link-active{
+	background-color: #31353E;
+	position: relative;
+}
+
+.sidebar-link-active:after{
+	content: "\25b6";
+    position:absolute;
+    right:-10px;
+    top: 50px;
+    font-size: 20px;
+    color: #31353E;
 }
 
 .ticker-section{
@@ -96,14 +125,32 @@ body,
 	background: #21242B;
 }
 
+.ticker-list{
+	margin-bottom: 20px;
+}
+
+.ticker-list li{
+	color: #60646A;
+}
+
+.ticker-list li{
+	display: inline;
+	margin-right: 20px;
+}
+
+.ticker-container{
+	margin-bottom: 20px;
+}
+
 .outerBox{
+  display: inline-block;
   width: 410px;
   height: 10px;
   background-color: #2C3E50;
   padding: 5px;
   -webkit-border-radius: 5px;
           border-radius: 5px;
-  margin-bottom: 20px;
+  margin-bottom: 3px;
 }
 
 .innerBox{
@@ -119,4 +166,47 @@ body,
   /*-webkit-border-radius: 5px;
           border-radius: 5px;*/
 }
+
+.innerBox.blue-innerBox{
+	background: #657A7B;
+}
+
+.innerBox.peach-innerBox{
+	background: #A93A4A;
+}
+
+.circle{
+	position: relative;
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+	border: 1px solid #31353E;
+	margin-right: 8px;
+}
+
+.inner-circle{
+	position: absolute;
+	width: 7px;
+    height: 7px;
+    top: 3px;
+    left: 3px;
+	background-color: #31353E;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+}
+
+
+/* Clearfix
+========================================== */
+
+/* causes the element not to collapse */
+.group::after{
+	content: " ";
+	display: table;
+	clear: both;
+}
+
+
 

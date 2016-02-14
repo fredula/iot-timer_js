@@ -4,8 +4,8 @@
 		"selected_items":
 		[
 			[
-				"cons",
-				"console.log()"
+				"pare",
+				"parentElement	Node"
 			],
 			[
 				"getA",
@@ -272,10 +272,6 @@
 				"mouseleave	Event"
 			],
 			[
-				"pare",
-				"parentNode	Node"
-			],
-			[
 				"for",
 				"forEach"
 			],
@@ -326,6 +322,10 @@
 			[
 				"tr",
 				"tr	Tag"
+			],
+			[
+				"cons",
+				"console.log('$0');"
 			],
 			[
 				"else",
@@ -593,7 +593,6 @@
 	},
 	"file_history":
 	[
-		"/Library/WebServer/Documents/www/frontend/JS_Fundamentals2Functional/Exercises/1_objTest/index.html",
 		"/Library/WebServer/Documents/www/frontend/Intro_to_web_dev/node/bleat/public/style.css",
 		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/js/utils.js",
 		"/Library/WebServer/Documents/www/Intranet/wp-content/plugins/dialogue-login/templates/register.php",
@@ -720,7 +719,8 @@
 		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/header.php",
 		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/page-index.php",
 		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/content-page.php",
-		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/custom.js"
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/js/custom.js",
+		"/Library/WebServer/Documents/www/Work/Multichoice/NetworkNews/wp-content/themes/networknews/css/font-awesome.min.css"
 	],
 	"find":
 	{
@@ -741,6 +741,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"group",
+			"sidebar-inpu",
 			"ajax",
 			"selectYears",
 			"console",
@@ -866,9 +868,7 @@
 			"Forgot login?",
 			"tml-action-links",
 			"button#expand",
-			"loginform1",
-			"tml-action-links",
-			"loginform"
+			"loginform1"
 		],
 		"highlight": true,
 		"in_selection": false,
